@@ -1,2 +1,1 @@
-# countdown-timer
-Countdown Timer
+# Countdown Timer for Halley's Comet
